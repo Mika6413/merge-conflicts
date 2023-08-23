@@ -1,9 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LOCAL
 =======
 
 >>>>>>> 955f0752582e8fbb5f1f57075c735b2509fa52ff
+=======
+>>>>>>> parent of 22afcc2 (Autre conflit)
 =======
 >>>>>>> parent of 22afcc2 (Autre conflit)
 # merge-conflicts
